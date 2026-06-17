@@ -1,0 +1,7 @@
+/* Custom clean resets for base app wrapper */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f8fafc; /* Subtle off-white backdrop */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
